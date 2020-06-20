@@ -2,6 +2,8 @@
 # Colab-Notebooks
 _Explore a new Machine Learning Playground of opportunity!_ 
 
+[Beginner's Guide to Google Colab Notebooks](https://medium.com/lean-in-women-in-tech-india/google-colab-the-beginners-guide-5ad3b417dfa)
+
 ## Remember:
 * You can't break anything in a Colab Notebook! 
 * If you can click Shift + Return, you can explore these notebooks (and endless others!)
