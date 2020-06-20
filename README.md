@@ -22,10 +22,17 @@ _Explore a new Machine Learning Playground of opportunity!_
 ## Extract Categories from URLs (via Google's NLP API)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pszCY2uPktwNqhlgUFsbkbK7M6m33g9c?usp=sharing)
 
+## Quick & Dirty Internal Link Analysis
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LyhDudYSFw7fqe6gWEWspria-Rvkke4O?usp=sharing)
+
 ## DeepDream - Explore how AI interprets images (like we interpret passing clouds as shapes/things)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1exSx7ir7UYxjGtYHM1d5hpaDfxLuqsLz?usp=sharing)
 
-## PIFuHD - Explore detailed 3D human reconstructions (from a high-res full body images of clothed humans)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1exSx7ir7UYxjGtYHM1d5hpaDfxLuqsLz?usp=sharing)
+## PIFuHD - Create detailed 3D human reconstructions (from a high-res full body images of clothed humans)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11z58bl3meSzo6kFqkahMa35G5jmh2Wgt?usp=sharing)
 
-https://colab.research.google.com/drive/11z58bl3meSzo6kFqkahMa35G5jmh2Wgt?usp=sharing
+## Excuse/Text Generator (Using GTP-2)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1B3oShF1RJGP66NdXn6RHseoZm1r1llP4?usp=sharing)
+
+
+
