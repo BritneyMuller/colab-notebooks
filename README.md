@@ -24,6 +24,9 @@ _Explore a new Machine Learning Playground of opportunity!_
 ## Extract Categories from URLs (via Google's NLP API)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pszCY2uPktwNqhlgUFsbkbK7M6m33g9c?usp=sharing)
 
+## Keyword Research Made Easy!!!
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BP3TpkTnX0_fRElXIf9rCI60FDDm2egc?usp=sharing)
+
 ## Time-Series Forecasting (Traffic, Sales, etc.)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MhAbZCCvnGpUCabfCP1U0aV5MkMr7Yin?usp=sharingg)
 
