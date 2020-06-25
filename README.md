@@ -27,6 +27,9 @@ _Explore a new Machine Learning Playground of opportunity!_
 ## Time-Series Forecasting (Traffic, Sales, etc.)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MhAbZCCvnGpUCabfCP1U0aV5MkMr7Yin?usp=sharingg)
 
+## Text Summarizer
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BritneyMuller/colab-notebooks/blob/master/Easy_Text_Summarization_with_BART.ipynb)
+
 ## Quick & Dirty Internal Link Analysis
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LyhDudYSFw7fqe6gWEWspria-Rvkke4O?usp=sharing)
 
