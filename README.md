@@ -1,5 +1,6 @@
 
-# Colab-Notebooks
+# Colab-Notebooks 
+## Know when Intro to Colab Videos go live --> https://bit.ly/colab-vids
 _Explore a new Machine Learning Playground of opportunity!_ 
 
 [Beginner's Guide to Google Colab Notebooks](https://medium.com/lean-in-women-in-tech-india/google-colab-the-beginners-guide-5ad3b417dfa)
