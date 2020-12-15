@@ -43,7 +43,7 @@ _Explore a new Machine Learning Playground of opportunity!_
 ## PIFuHD - Create detailed 3D human reconstructions (from a high-res full body images of clothed humans)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11z58bl3meSzo6kFqkahMa35G5jmh2Wgt?usp=sharing)
 
-## Excuse/Text Generator (Using GTP-2)
+## Excuse/Text Generator (Using GPT-2)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1B3oShF1RJGP66NdXn6RHseoZm1r1llP4?usp=sharing)
 
 
