@@ -19,6 +19,11 @@ _Explore a new Machine Learning Playground of opportunity!_
 
 # Have Fun!!!!
 
+## MozCon 2021 GSC Notebooks:
+**GSC Keywords:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lGiTM9SR4FrvO_kA_gbpDf6itTFaGW-Z?usp=sharing)
+
+**GSC Impressions:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BritneyMuller/colab-notebooks/blob/master/MozCon_GSC_Impressions_%7C_Data_Skeptic.ipynb)
+
 ## Extract Entities from URLs (via Google's NLP API)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RJhh3HK03-_S9ab-_RQId5YSLP-LNDHQ?usp=sharing)
 
